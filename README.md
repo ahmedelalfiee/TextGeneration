@@ -1,4 +1,6 @@
-# TextGeneration
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b5712b63-08b5-4567-bbd4-285820d20a5e" width="700" />
+</p>
 
 ## Project
 1. Load and parse text.
